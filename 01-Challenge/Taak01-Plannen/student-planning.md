@@ -13,12 +13,12 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
+| Ontwerpen   | Mockup van portfolio maken                     | 00:40 u             |        |
+| ontwerp     | Styling van elementen bepalen                  | 01:00/04:00 u       |        |
 | Realiseren  | Bestanden aanmaken                             |                     |        |
-| ...         |                                                |                     |        |
+|code         | html                                           |  2 uur              |        |
 | Testen      | Applicatie testen                              |                     |        |
-| ...         |                                                |                     |        |
+| code        |css                                             |    3/4 uur          |        |
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
 | ...         |                                                |                     |        |
 | Presenteren |                                                |                     |        |
