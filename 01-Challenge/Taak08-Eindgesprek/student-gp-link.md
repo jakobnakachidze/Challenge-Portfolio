@@ -1,7 +1,7 @@
 # Link naar je Github Pages
 
-Student : `studentnaam`
+Student : `Jakob Nakachidze`
 
-Klas    : `klascode`
+Klas    : `0D`
 
-Link    : [github_username.github.io](github_username.github.io)
+Link    : [https://jakobnakachidze.github.io/Portofoliomainmap/index.htmlo]
